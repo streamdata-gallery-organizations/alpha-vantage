@@ -5,7 +5,7 @@ description: This is a repository of alpha vantage APIs, self-contained as a Git
   operations.
 image: http://template.streamdata.gallery/assets/alpha-vantage.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://alpha-vantage.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
