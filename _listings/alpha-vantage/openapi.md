@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Alpha Vantage
 x-complete: 1
@@ -662,4 +661,3 @@ paths:
       - Market Data
       - Sector
       - Performance
----
